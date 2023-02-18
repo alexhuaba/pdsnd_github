@@ -32,7 +32,7 @@ def get_filters():
             month = input('please set another month!').lower()
     print(month)
     # get user input for day of week (all, monday, tuesday, ... sunday)
-    day = input('Now please type in a day (eg. monday ... sunday), or if you wish to get information of every day type in "all"').lower()
+    day = input('Now please type in a Day (eg. monday ... sunday), or if you wish to get information of every day type in "all"').lower()
     while day != 'all' and day != 'monday' and day != 'tuesday' and day != 'wednesday' and day != 'thursday' and day != 'friday' and day != 'saturday' and day != 'sunday':
             print('You can only choose between "all" or single days like "monday"')
             day = input('please check and type in "all" or a specific day!').lower()
