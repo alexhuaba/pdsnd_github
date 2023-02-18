@@ -14,9 +14,9 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 
 ### Files used
 Original hompages files where the datas were generated: 
-[Chigaco] (https://divvybikes.com/system-data)
-[New_York] (https://citibikenyc.com/system-data)
-[Washington] (https://capitalbikeshare.com/system-data)
+[Chigaco](https://divvybikes.com/system-data)
+[New_York](https://citibikenyc.com/system-data)
+[Washington](https://capitalbikeshare.com/system-data)
 
 ### Credits
 In this project, datas are used from [Motivate] (https://motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
