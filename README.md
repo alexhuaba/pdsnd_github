@@ -19,5 +19,5 @@ Original hompages files where the datas were generated:
 [Washington](https://capitalbikeshare.com/system-data)
 
 ### Credits
-In this project, datas are used from [Motivate] (https://motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+In this project, datas are used from the page [Motivate](https://motivateco.com/), a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
