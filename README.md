@@ -2,7 +2,7 @@
 
 ### Date created
 The creation date of this Projekt is **18.02.2023**.
-The last refresh of the README was on **18.02.2023*
+The last refresh of the README was on **18.02.2023 at 18:03**
 
 ### Project Title
 Project: _Explore US Bikeshare Data_
