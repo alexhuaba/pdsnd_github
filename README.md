@@ -5,7 +5,7 @@ The creation date of this Projekt is **18.02.2023**.
 The last refresh of the README was on **18.02.2023 at 18:03**
 
 ### Project Title
-Project: _Explore US Bikeshare Data_
+Project: **Explore US Bikeshare Data**
 
 ### Description
 Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
